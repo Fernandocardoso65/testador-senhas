@@ -1,5 +1,7 @@
 # testador-senhas
 
+https://testador-senhas.vercel.app/
+
 # Segurança de Senhas
 
 Este é um projeto simples e educativo em HTML, CSS e JavaScript, criado com o objetivo de conscientizar os usuários sobre a importância de senhas fortes e seguras.
