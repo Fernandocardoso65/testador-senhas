@@ -26,6 +26,9 @@ Cada critério conta pontos para a "pontuação de segurança" e o sistema class
 
 ##  Como usar
 
+1.clique no seguinte link:
+
+https://testador-senhas.vercel.app/ 
 
 2. Abra o arquivo no navegador.
 
